@@ -28,7 +28,8 @@ html {
 .card {
     width: 100%;
     max-width: 470px;
-    background: linear-gradient(100deg, #00feba, #5b548a);
+    /* background: linear-gradient(100deg, #00feba, #5b548a); */
+    background: linear-gradient(125deg, #e66465, #9198e5);
     color: #fff;
     border-radius: 20px;
     padding: 20px;
